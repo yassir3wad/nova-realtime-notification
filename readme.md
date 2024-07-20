@@ -136,3 +136,7 @@ Thank you for considering contributing to the Laravel Nova Real-time Notificatio
 ## License
 
 This package is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+# Screenshots
+![Nova Real-time Notification](https://github.com/yassir3wad/nova-realtime-notification/blob/main/screenshot1.png)
+![Nova Real-time Notification](https://github.com/yassir3wad/nova-realtime-notification/blob/main/screenshot2.png)
