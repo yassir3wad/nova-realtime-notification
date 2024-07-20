@@ -10,8 +10,10 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Yassir Awwad",
-            "email": "your-email@example.com"
+            "name": "Yassir Awad",
+            "email": "com.eng.yassir@gmail.com",
+            "homepage": "https://github.com/yassir3wad",
+            "role": "Developer"
         }
     ],
     "require": {
