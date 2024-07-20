@@ -1,6 +1,6 @@
 {
     "name": "yassir3wad/nova-realtime-notification",
-    "description": "This package adds real-time notification broadcasting capabilities to Laravel Nova Notifications,",
+    "description": "This package adds real-time notification broadcasting capabilities to Laravel Nova Notifications.",
     "keywords": [
         "laravel",
         "nova",
@@ -8,6 +8,12 @@
         "broadcasting"
     ],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Yassir Awwad",
+            "email": "your-email@example.com"
+        }
+    ],
     "require": {
         "php": "^7.3|^8.0"
     },
