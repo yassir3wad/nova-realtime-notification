@@ -51,6 +51,8 @@ if (window.Echo) {
                 type: notification.level,
             })
 
+            Nova.$emit('refresh-notifications')
+
             window.playNotificationSound();
         });
 }
